@@ -1,3 +1,5 @@
 {
-    "theme": "solarized"
+    "theme": "solarized",
+    "highlightTheme": "github",
+    "verticalSeparator": "\n--\n"
 }
